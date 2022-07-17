@@ -7,9 +7,9 @@
 После скачивания просто установите шрифт, кликнув на нём два раза и нажав на кнопку "Установить"
 ## Скриншоты
 ***
-![screen1](https://user-images.githubusercontent.com/103951737/175776741-add21603-a1e9-4237-a46b-130a04da3c1e.JPG)
+![screen1](https://user-images.githubusercontent.com/103951737/179398639-3ef0d85b-d614-4af6-893a-5a624871a28a.png)
 
-Скриншот из установщика шрифтов
+Скриншот из установщика шрифтов Windows
 ***
 ![screen2](https://user-images.githubusercontent.com/103951737/175776782-47ce15b3-5dd6-4b9b-8e48-6849ffa80780.JPG)
 
